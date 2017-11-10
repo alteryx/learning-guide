@@ -1,1 +1,1 @@
-learning-guide
+quick-start
